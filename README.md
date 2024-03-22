@@ -1,4 +1,4 @@
-# Responsive Camping Website - ShodiBoy
+# Responsive Camping Website
 
 This project is a responsive camping website designed to showcase camping events and locations where users can camp anytime without hassle. The website features a modern design with a focus on user experience across various devices.
 
@@ -17,11 +17,3 @@ This project is a responsive camping website designed to showcase camping events
 - **GSAP (GreenSock Animation Platform)**: For smooth, performant animations.
 - **Remixicon**: A set of icons used to enhance the user interface.
 
-## Getting Started
-
-To get a local copy up and running follow these simple steps:
-
-1. Clone the repository to your local machine:
-
-```bash
-git clone https://github.com/yourusername/responsive-camping-website-main.git
